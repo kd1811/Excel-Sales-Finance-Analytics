@@ -7,11 +7,11 @@ The AtliQ Hardware Customer Net Sales Report for the years 2019, 2020, and 2021 
 
 - **Project objective:** 
 
-    **1.** Create a _[Customer performance report](https://github.com/kd1811/Excel-Sales-Finance-Analytics/blob/main/Customer_Net_Sales_Performance_Report.pdf)_
+    **1.** Create a _[Customer performance report](https://github.com/kd1811/Excel-Sales-Finance-Analytics/blob/main/Customer%20Net%20Sales%20Performance%20Report.pdf)_
 
-    **2.** Conduct a comprehensive comparison between _[Market performance and sales targets](https://github.com/kd1811/Excel-Sales-Finance-Analytics/blob/main/Market_Performance_Vs_Target.pdf)_
+    **2.** Conduct a comprehensive comparison between _[Market performance and sales targets](https://github.com/kd1811/Excel-Sales-Finance-Analytics/blob/main/Market%20Performance%20Vs%20Target.pdf)_
 
-    **3.** Create a _[Sales Report for AtliQ Hardware](https://github.com/kd1811/Excel-Sales-Finance-Analytics/blob/main/Sales_Report_AtliQ_Hardware.pdf)_
+    **3.** Create a _[Sales Report for AtliQ Hardware](https://github.com/kd1811/Excel-Sales-Finance-Analytics/blob/main/Sales%20Report%20AtliQ%20Hardware.pdf)_
 
 
 ## Customer Performance Report
@@ -149,9 +149,9 @@ For detailed numerical data, please refer to the original report.
 
 - **Project objective:** 
 
-    **1.** Create _[P & L Report by Fiscal Year](https://github.com/kd1811/Excel-Sales-Finance-Analytics/blob/main/P_N_L_by_Fiscal_Years.pdf)_ and _[P & L Report by Month(FY)](https://github.com/kd1811/Excel-Sales-Finance-Analytics/blob/main/P_N_L_by_Month_(FY).pdf)_
+    **1.** Create _[P & L Report by Fiscal Year](https://github.com/kd1811/Excel-Sales-Finance-Analytics/blob/main/P%20%26%20L%20by%20Fiscal%20Years.pdf)_ and _[P & L Report by Month(FY)](https://github.com/kd1811/Excel-Sales-Finance-Analytics/blob/main/P%20%26%20L%20by%20Month%20(FY).pdf)_
 
-   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/kd1811/Excel-Sales-Finance-Analytics/blob/main/Finance_Report_AtliQ_Hardware.pdf)_
+   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/kd1811/Excel-Sales-Finance-Analytics/blob/main/Finance%20Report%20AtliQ%20Hardware.pdf)_
 
 ### Profit and Loss Report by Fiscal Years
 
