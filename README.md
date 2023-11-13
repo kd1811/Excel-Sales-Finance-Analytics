@@ -3,7 +3,7 @@ This is an Excel project for Sales and Finance analytics of AtliQ Hardware.
 
 ## Sales Report :
 
-The AtliQ Hardware Customer Net Sales Report for the years 2019, 2020, and 2021 offers a comprehensive overview of the company's financial performance. This report is a valuable resource for retailers, consumers, and stakeholders seeking to understand the company's sales & marketing trends and growth over a three-year period.
+The AtliQ Hardware Customer Net Sales Report for the years 2019, 2020, and 2021 offers a comprehensive overview of the company's financial performance. This report is a valuable resource for retailers, consumers, and stakeholders seeking to understand the company's sales trends and growth over a three-year period.
 
 - **Project objective:** 
 
